@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+ass/
+atabase.txt
+git_les.py
+int.py
+log.txt
+main.py
+tele.py
+telegram.py
+test2.txt
+uk.py
+urok.py
+.DS_Store
